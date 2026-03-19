@@ -38,6 +38,12 @@ body {
     background: linear-gradient(rgba(75,0,130,0.7), rgba(123,44,191,0.7)),
     url('https://images.unsplash.com/photo-1509062522246-3755977927d7') center/cover;
 }
+ 
+.hero-slide 
+.third {
+    background: linear-gradient(rgba(75,0,130,0.7), rgba(123,44,191,0.7)),
+    url("picture4.jpeg") center/cover;
+}
 
 .overlay {
     background: rgba(0,0,0,0.4);
